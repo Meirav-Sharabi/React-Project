@@ -1,0 +1,10 @@
+.header-adminBusiness{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color:white;
+    padding: 10px;
+    z-index: 1;
+
+} 

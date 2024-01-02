@@ -1,0 +1,8 @@
+.services{
+    margin-top: 20%;
+    margin-bottom: 10%;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
